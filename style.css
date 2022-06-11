@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	color:  #160F29;
+	font-family: Helvetica, sans-serif;
+	font-weight: 900;
+
+}
+body {
+	padding: 70px;
+	background: #edf6f9;
+	font-family: Helvetica, sans-serif;
+	color: #160F29;
+}
+h2 {
+	color: #246A73;
+}
+div.name {
+	padding: 20px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background-color: #F3DFC1;
+}
+div.education {
+	padding: 20px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background-color: #ffddd2;
+}
+div.skills {
+	padding: 20px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background-color: #aed9e0;
+}
+details > summary {
+  padding: 4px;
+  background-color: #ffddd2;
+  border: none;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: #ffddd2;
+  padding: 4px;
+  margin-left: 100px;
+}
